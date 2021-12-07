@@ -1,0 +1,13 @@
+GET http://localhost:5050/scores
+
+###
+
+GET http://localhost:5050/scores/6164458e79e3a18155ee9e70
+
+###
+
+GET http://localhost:5050/persons/61644f3b76fff011912915a7
+
+###
+
+DELETE http://localhost:5050/persons/6164517d4fcd624bc3d2a0b2
